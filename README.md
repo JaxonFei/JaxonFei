@@ -1,3 +1,2 @@
-### Hi there 👋
-
+##学习笔记
 🌱 I’m currently learning Python...
